@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class pagos{
+class RETO2{
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.print("¿Cuánto debes pagar: ");
